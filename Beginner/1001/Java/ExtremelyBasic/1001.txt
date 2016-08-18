@@ -1,0 +1,33 @@
+package extremely.basic;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+/**
+ *
+ * @author damian
+ */
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+        int x;
+        
+        x = sumaBuforowanyCzytnik();
+        System.out.format("X = %d\n", x);
+    }
+    
+    public static int sumaBuforowanyCzytnik() throws IOException
+    {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        
+        String aString = reader.readLine();
+        String bString = reader.readLine();
+        
+        int a = Integer.parseInt(aString);
+        int b = Integer.parseInt(bString);
+        int x = a + b;
+        
+        return x;
+    }
+}
