@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=MinGW-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
-CND_ARTIFACT_NAME_Debug=extremelybasic
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/extremelybasic
+CND_ARTIFACT_NAME_Debug=closingtabs
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/closingtabs
 CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
-CND_PACKAGE_NAME_Debug=extremelybasic.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/extremelybasic.tar
+CND_PACKAGE_NAME_Debug=closingtabs.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/closingtabs.tar
 # Release configuration
 CND_PLATFORM_Release=MinGW-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
-CND_ARTIFACT_NAME_Release=extremelybasic
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/extremelybasic
+CND_ARTIFACT_NAME_Release=closingtabs
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/closingtabs
 CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
-CND_PACKAGE_NAME_Release=extremelybasic.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/extremelybasic.tar
+CND_PACKAGE_NAME_Release=closingtabs.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/closingtabs.tar
 #
 # include compiler specific variables
 #
